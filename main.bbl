@@ -1,0 +1,94 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bard%
+\ \BBA {} Doria%
+}{%
+Bard%
+\ \BBA {} Doria%
+}{%
+{\protect \APACyear {1970}}%
+}]{%
+bard}
+\APACinsertmetastar {%
+bard}%
+\begin{APACrefauthors}%
+Bard%
+\BCBT {}\ \BBA {} Doria.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1970}.
+\newblock
+\APACrefbtitle {Equil{\'i}brio i{\'o}nico} {Equil{\'i}brio i{\'o}nico}.
+\newblock
+\APACaddressPublisher{}{Ediciones del Castillo Madrid}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bier%
+}{%
+Bier%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+bier}
+\APACinsertmetastar {%
+bier}%
+\begin{APACrefauthors}%
+Bier, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Electroqu{\'i}mica} {Electroqu{\'i}mica}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Santana%
+}{%
+Santana%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+santana}
+\APACinsertmetastar {%
+santana}%
+\begin{APACrefauthors}%
+Santana, G\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {Equil{\'i}brio Qu{\'i}mico.} {Equil{\'i}brio qu{\'i}mico.}
+\newblock
+\APACaddressPublisher{}{Brazil}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stanley%
+}{%
+Stanley%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+whiten}
+\APACinsertmetastar {%
+whiten}%
+\begin{APACrefauthors}%
+Stanley, K\BPBI D\BPBI W\BPBI P\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Química} {Química}.
+\newblock
+\APACaddressPublisher{}{Cengage}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

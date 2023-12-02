@@ -1,0 +1,20 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Objetivos}{2}{section.1}%
+\contentsline {section}{\numberline {2}Fundamento teorico}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Equilibrio Qu\'imico}{2}{subsection.2.1}%
+\contentsline {subsubsection}{Constante de equilibrio}{3}{section*.1}%
+\contentsline {subsubsection}{Cociente de reacci\'on}{4}{section*.1}%
+\contentsline {subsubsection}{Caracteristicas del equilibrio}{4}{section*.1}%
+\contentsline {subsubsection}{Constante de equilibrio en funci\'on de la presi\'on}{5}{section*.1}%
+\contentsline {subsubsection}{Grado de disoci\'on}{6}{section*.1}%
+\contentsline {subsubsection}{Principio de Le Chatelier}{6}{section*.1}%
+\contentsline {subsubsection}{Solubilidad}{6}{section*.1}%
+\contentsline {subsubsection}{Factores determinantes de la solubilidad}{7}{section*.1}%
+\contentsline {subsubsubsection}{\numberline {2.1.0.1}Temperatura}{7}{subsubsubsection.2.1.0.1}%
+\contentsline {subsubsubsection}{\numberline {2.1.0.2}Energ\'ia}{7}{subsubsubsection.2.1.0.2}%
+\contentsline {subsubsubsection}{\numberline {2.1.0.3}Entrop\'ia}{7}{subsubsubsection.2.1.0.3}%
+\contentsline {section}{\numberline {3}Cuestionario}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Parte A}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Parte B}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Resultados}{12}{section.4}%
+\contentsline {section}{Referencias}{12}{figure.3}%
